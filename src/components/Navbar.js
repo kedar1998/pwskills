@@ -3,7 +3,7 @@ import logo from '../assets/logo.png'
 
 const Navbar = () => {
   return (
-    <div className='mt-5'>
+    <div className='my-5'>
         <section className='max-w-7xl mx-auto'>
             <nav className='flex items-center justify-between'>
                 {/* LEFT SECTION */}
